@@ -1,0 +1,22 @@
+{
+  "en": {
+    "prefs.hide_constraint_glyphs_zoomed_out": "Hide constraint glyphs when zoomed out",
+    "prefs.hide_constraint_glyphs_zoomed_out_note": "Constraint glyphs leave the view when the sketch is zoomed out far enough that they would clutter it. Off: they stay at a fixed screen size at every zoom."
+  },
+  "de": {
+    "prefs.hide_constraint_glyphs_zoomed_out": "Bindungssymbole bei starkem Herauszoomen ausblenden",
+    "prefs.hide_constraint_glyphs_zoomed_out_note": "Bindungssymbole verschwinden, wenn die Skizze so weit herausgezoomt ist, dass sie sie überladen würden. Aus: sie behalten bei jedem Zoom eine feste Bildschirmgröße."
+  },
+  "ja": {
+    "prefs.hide_constraint_glyphs_zoomed_out": "ズームアウト時に拘束グリフを隠す",
+    "prefs.hide_constraint_glyphs_zoomed_out_note": "スケッチを十分にズームアウトすると、拘束グリフは表示されず画面を散らかしません。オフ: ズームに関係なく固定の画面サイズのままです。"
+  },
+  "zh": {
+    "prefs.hide_constraint_glyphs_zoomed_out": "缩小时隐藏约束符号",
+    "prefs.hide_constraint_glyphs_zoomed_out_note": "草图缩小到一定程度时隐藏约束符号，以免遮挡草图。关闭：任意缩放比例下符号仍保持固定屏幕大小。"
+  },
+  "ko": {
+    "prefs.hide_constraint_glyphs_zoomed_out": "축소 시 구속 조건 기호 숨기기",
+    "prefs.hide_constraint_glyphs_zoomed_out_note": "스케치를 충분히 축소하면 구속 조건 기호가 가려지지 않도록 숨깁니다. 끄기: 확대/축소와 관계없이 고정된 화면 크기를 유지합니다."
+  }
+}
